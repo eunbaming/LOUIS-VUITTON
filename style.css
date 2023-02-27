@@ -7,17 +7,14 @@
   background-color: chocolate;
   border-color: chocolate;
 }
-
 footer {
   background-color: #19110b;
   font-size: 14px;
 }
-
 .first-line {
   color: white;
   border-bottom: 1px solid #392d23;
 }
-
 .flag {
   color: white;
 }
@@ -25,7 +22,6 @@ footer {
   text-decoration: none;
   color: white;
 }
-
 .third-line {
   display: none;
 }
