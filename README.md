@@ -32,7 +32,7 @@ Bootstrap을 이용하여 navbar, carousel 등을 제작하고, 거기에서 더
 
 <img src="https://user-images.githubusercontent.com/110072947/221737223-bdced515-dac4-4096-8b4c-f30102db2456.png" width="400">
 
-+ margin, padding 등을 css가 아닌 Bootstrap으로 html에 더더욱 손쉽게 개발
++ margin, padding 등을 css가 아닌 Bootstrap으로 html에 보다 더 간결한 코드로 개발
 
 ```html
 <div class="text-center mt-5 mb-5">
