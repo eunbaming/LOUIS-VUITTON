@@ -1,17 +1,22 @@
 # LOUIS-VUITTON 쇼핑몰 웹사이트
 
+
 실제 LOUIS-VUITTON 사이트를 참고하여 Bootstrap을 이용한 반응형 웹사이트 구축
 
 ![LOUIS-VUITTON](https://user-images.githubusercontent.com/110072947/221730869-c48c63ef-39b1-41d4-8d73-90d5a559195a.png)
 
 + Demo : https://hnm-website.vercel.app/
 
+<br/>
+<br/>
 
 ### 개발 목표
 
 Bootstrap을 이용하여 navbar, carousel 등을 제작하고, 거기에서 더 나아가 Media Query를 이용하여
 사용자의 눈에 보기 좋게 반응형 웹사이트를 개발
 
+<br/>
+<br/>
 
 ### 사용 기술
 
@@ -19,6 +24,8 @@ Bootstrap을 이용하여 navbar, carousel 등을 제작하고, 거기에서 더
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 
+<br/>
+<br/>
 
 ### Advanced Feature
 
@@ -32,6 +39,8 @@ Bootstrap을 이용하여 navbar, carousel 등을 제작하고, 거기에서 더
 
 <img src="https://user-images.githubusercontent.com/110072947/221737223-bdced515-dac4-4096-8b4c-f30102db2456.png" width="400">
 
+<br/>
+
 + margin, padding 등을 css가 아닌 Bootstrap으로 html에 보다 더 간결한 코드로 개발
 
 ```html
@@ -41,6 +50,8 @@ Bootstrap을 이용하여 navbar, carousel 등을 제작하고, 거기에서 더
   <button type="button" class="btn btn-dark">Discover the Campagine</button>
 </div>
 ```
+
+<br/>
 
 + Media Query를 이용하여 반응형 footer 개발
 
@@ -72,6 +83,8 @@ Bootstrap을 이용하여 navbar, carousel 등을 제작하고, 거기에서 더
 }
 ```
 
+<br/>
+<br/>
 
 ### 개선 사항
 
