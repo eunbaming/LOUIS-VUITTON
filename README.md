@@ -29,7 +29,7 @@ Bootstrap을 이용하여 navbar, carousel 등을 제작하고, 거기에서 더
 
 ### Advanced Feature
 
-+ Bootstrap을 이용하여 navbar, carousel를 디자인하고, Container/Row/Col 속성을 사용하여 웹사이트를 반응형으로 개발
++ Bootstrap을 이용하여 navbar, carousel를 디자인하고, Container/Row/Col 속성을 사용하여 웹페이지를 반응형으로 개발
 
 [Web ver.]
 
